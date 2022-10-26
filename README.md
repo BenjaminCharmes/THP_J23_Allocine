@@ -1,24 +1,5 @@
-# README
+<h1 align="center">Day 23 of The Hacking Project: SQLite</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Here are all the exercises in Ruby from day 23 of The Hacking Project: In this exercise, we will create a Rails app whose Database will contain movies. First, we create the model and the Database. Then we will manipulate all this with the console. Finally, we'll seeder the DB.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<h2 align="center">🎉 Day 8 of the Full Stack training 🎉</h2>
